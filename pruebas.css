@@ -1,0 +1,19 @@
+body{
+ background-color: lightblue;   
+}
+
+
+.container{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Imagen{
+    position:relative;
+    width: 400px;
+    height: 400px;
+
+}
+
